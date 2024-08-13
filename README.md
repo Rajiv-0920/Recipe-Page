@@ -25,8 +25,8 @@ The "Recipe Page Solution" from Frontend Mentor features a clean layout with a r
 
 ### Links
 
-- Solution URL: [Recipe Page Repo](https://github.com/Rajiv-0920/Recipe%20Page/)
-- Live Site URL: [Recipe Page Solution](https://rajiv-0920.github.io/Recipe%20Page/)
+- Solution URL: [Recipe Page Repo](https://github.com/Rajiv-0920/Recipe-Page.git)
+- Live Site URL: [Recipe Page Solution](https://rajiv-0920.github.io/Recipe-Page/)
 
 ## My process
 
